@@ -1,2 +1,1 @@
-# Music-project
-music>database>analysis>project//-
+Data Analysis for Digital Music Store Using SQL
